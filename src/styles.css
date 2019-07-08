@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  margin: 0px atuo;
+}
+
+.titleStyles {
+  text-align: center;
+  font-size: 75px;
+  font-family: Helvetica;
+  padding-top: 20px;
+}
+
+.dateStyles {
+  font-size: 25px;
+  color: #a96b09;
+  margin-left: 25;
+}
+
+.formStyles {
+  padding-left: 25px;
+}
+
+.td-center {
+  text-align: center;
+  font: #f39c12;
+}
